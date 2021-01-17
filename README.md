@@ -6,9 +6,19 @@
 
 [Лэндинг проекта](http://iplending.std-960.ist.mospolytech.ru/)
 
-[Ссылка на рабочую версию]()
+[Ссылка на рабочую версию](http://ep-3sem.std-960.ist.mospolytech.ru/)
 
 [Ссылка на документацию/ видео](https://drive.google.com/drive/folders/12O9iSEp6n8-HCC-LcABiSLLH-sQf_iku?usp=sharing)
+
+# Ссылки на REST-API
+
+### Компании
+
+[Таблица компаний (Создание)](http://ep-3sem.std-960.ist.mospolytech.ru/api/v1/main/mains/create/)
+
+[Таблица компаний (Все)](http://ep-3sem.std-960.ist.mospolytech.ru/api/v1/main/all/)
+
+[Таблица компаний (Детально)](http://ep-3sem.std-960.ist.mospolytech.ru/api/v1/main/detail/1/)
 
 Задачи:
 
